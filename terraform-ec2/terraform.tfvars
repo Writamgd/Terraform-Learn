@@ -1,0 +1,6 @@
+ami = "ami-066784287e358dad1"
+instance_type = "t2.micro"
+instance_name = "MyEc2a"
+region = "us-east-1"
+env = "dev"
+vpc = "123"
